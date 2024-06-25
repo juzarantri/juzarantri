@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CS student from DDIT Nadiad, driven by a curiosity for technology and upcoming generative AI applications. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<juzarantri>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![juzarantri's Stats](https://github-readme-stats.vercel.app/api?username=juzarantri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ I am a passionate B.Tech CS student from DDIT Nadiad, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/juzar-antri-10537b212/))
+- Connect with me on [linkedin](https://www.linkedin.com/in/juzar-antri-10537b212/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
